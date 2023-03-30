@@ -58,11 +58,6 @@
 	url = https://github.com/cran/MVA
 	shallow = true
 	registered = true
-[submodule "partykit"]
-	path = partykit
-	url = https://github.com/cran/partykit
-	shallow = true
-	registered = true
 [submodule "TH.data"]
 	path = TH.data
 	url = https://github.com/cran/TH.data
