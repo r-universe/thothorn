@@ -1,65 +1,40 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ATR"]
 	path = ATR
 	url = https://github.com/cran/ATR
-	shallow = true
-	registered = true
 [submodule "exactRankTests"]
 	path = exactRankTests
 	url = https://github.com/cran/exactRankTests
-	shallow = true
-	registered = true
 [submodule "HSAUR"]
 	path = HSAUR
 	url = https://github.com/cran/HSAUR
-	shallow = true
-	registered = true
 [submodule "HSAUR2"]
 	path = HSAUR2
 	url = https://github.com/cran/HSAUR2
-	shallow = true
-	registered = true
 [submodule "HSAUR3"]
 	path = HSAUR3
 	url = https://github.com/cran/HSAUR3
-	shallow = true
-	registered = true
 [submodule "inum"]
 	path = inum
 	url = https://github.com/cran/inum
-	shallow = true
-	registered = true
 [submodule "ipred"]
 	path = ipred
 	url = https://github.com/cran/ipred
-	shallow = true
-	registered = true
 [submodule "libcoin"]
 	path = libcoin
 	url = https://github.com/cran/libcoin
-	shallow = true
-	registered = true
 [submodule "maxstat"]
 	path = maxstat
 	url = https://github.com/cran/maxstat
-	shallow = true
-	registered = true
 [submodule "modeltools"]
 	path = modeltools
 	url = https://github.com/cran/modeltools
-	shallow = true
-	registered = true
 [submodule "MVA"]
 	path = MVA
 	url = https://github.com/cran/MVA
-	shallow = true
-	registered = true
 [submodule "TH.data"]
 	path = TH.data
 	url = https://github.com/cran/TH.data
-	shallow = true
-	registered = true
