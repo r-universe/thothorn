@@ -16,7 +16,7 @@
 	url = https://codeberg.org/thothorn/modeltools
 [submodule "multcomp"]
 	path = multcomp
-	url = https://codeberg.org/thothorn/multcomp
+	url = https://codeberg.org/thothorn/multcomp/
 [submodule "mvtnorm"]
 	path = mvtnorm
 	url = https://codeberg.org/thothorn/mvtnorm/
