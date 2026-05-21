@@ -19,7 +19,7 @@
 	url = https://codeberg.org/thothorn/multcomp
 [submodule "mvtnorm"]
 	path = mvtnorm
-	url = https://codeberg.org/thothorn/mvtnorm
+	url = https://codeberg.org/thothorn/mvtnorm/
 [submodule "party"]
 	path = party
 	url = https://codeberg.org/thothorn/party
