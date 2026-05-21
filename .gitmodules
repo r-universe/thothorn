@@ -1,40 +1,26 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/thothorn/thothorn.r-universe.dev
 	branch = HEAD
-[submodule "ATR"]
-	path = ATR
-	url = https://github.com/cran/ATR
-[submodule "HSAUR"]
-	path = HSAUR
-	url = https://github.com/cran/HSAUR
-[submodule "HSAUR2"]
-	path = HSAUR2
-	url = https://github.com/cran/HSAUR2
-[submodule "HSAUR3"]
-	path = HSAUR3
-	url = https://github.com/cran/HSAUR3
-[submodule "MVA"]
-	path = MVA
-	url = https://github.com/cran/MVA
 [submodule "TH.data"]
 	path = TH.data
-	url = https://github.com/cran/TH.data
+	url = https://codeberg.org/thothorn/TH.data
 [submodule "exactRankTests"]
 	path = exactRankTests
-	url = https://github.com/cran/exactRankTests
-[submodule "inum"]
-	path = inum
-	url = https://github.com/cran/inum
+	url = https://codeberg.org/thothorn/exactRankTests
 [submodule "ipred"]
 	path = ipred
-	url = https://github.com/cran/ipred
-[submodule "libcoin"]
-	path = libcoin
-	url = https://github.com/cran/libcoin
-[submodule "maxstat"]
-	path = maxstat
-	url = https://github.com/cran/maxstat
+	url = https://codeberg.org/thothorn/ipred
 [submodule "modeltools"]
 	path = modeltools
-	url = https://github.com/cran/modeltools
+	url = https://codeberg.org/thothorn/modeltools
+[submodule "multcomp"]
+	path = multcomp
+	url = https://codeberg.org/thothorn/multcomp
+[submodule "mvtnorm"]
+	path = mvtnorm
+	url = https://codeberg.org/thothorn/mvtnorm
+[submodule "party"]
+	path = party
+	url = https://codeberg.org/thothorn/party
+	subdir = pkg
