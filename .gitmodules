@@ -22,5 +22,5 @@
 	url = https://codeberg.org/thothorn/mvtnorm/
 [submodule "party"]
 	path = party
-	url = https://codeberg.org/thothorn/party
+	url = https://codeberg.org/thothorn/party/
 	subdir = pkg
