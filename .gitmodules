@@ -5,12 +5,24 @@
 [submodule "TH.data"]
 	path = TH.data
 	url = https://codeberg.org/thothorn/TH.data
+[submodule "coin"]
+	path = coin
+	url = https://codeberg.org/thothorn/coin
+	subdir = pkg/coin
 [submodule "exactRankTests"]
 	path = exactRankTests
 	url = https://codeberg.org/thothorn/exactRankTests
+[submodule "free1way.docreg"]
+	path = free1way.docreg
+	url = https://codeberg.org/thothorn/coin
+	subdir = pkg/free1way.docreg
 [submodule "ipred"]
 	path = ipred
 	url = https://codeberg.org/thothorn/ipred
+[submodule "libcoin"]
+	path = libcoin
+	url = https://codeberg.org/thothorn/coin
+	subdir = pkg/libcoin
 [submodule "modeltools"]
 	path = modeltools
 	url = https://codeberg.org/thothorn/modeltools
