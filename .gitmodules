@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/thothorn/thothorn.r-universe.dev
 	branch = HEAD
+[submodule "ATR"]
+	path = ATR
+	url = https://codeberg.org/thothorn/partykit
+	subdir = pkg/ATR
 [submodule "TH.data"]
 	path = TH.data
 	url = https://codeberg.org/thothorn/TH.data
@@ -36,3 +40,7 @@
 	path = party
 	url = https://codeberg.org/thothorn/party
 	subdir = pkg
+[submodule "partykit"]
+	path = partykit
+	url = https://codeberg.org/thothorn/partykit
+	subdir = pkg/ATR
